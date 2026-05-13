@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">UROAPP</string>
+    <string name="welcome_to_urosmart">Welcome to UroSmart</string>
+    <string name="splash_subtitle">Advanced Urinalysis Analysis\nat Your Fingertips</string>
+    <string name="get_started">Get Started</string>
+    <string name="data_usage_permission">Data Usage Permission</string>
+    <string name="permission_cloud_text">We collect and store your microscopy scan images and analysis results on our <b>secure SIMATS server</b> to provide the app\'s functionality.</string>
+    <string name="permission_shield_text">Your data is <b>not shared with any third-party services</b>. All servers are owned and operated exclusively by SIMATS.</string>
+    <string name="permission_trash_text">Scan images sent for analysis are <b>not retained</b> on the server after the result is returned.</string>
+    <string name="permission_warning_text">For informational use only. Always consult a qualified healthcare professional.</string>
+    <string name="allow">Allow</string>
+    <string name="do_not_accept">I Do Not Accept</string>
+    <string name="log_in">Log In</string>
+    <string name="login_subtitle">Sign in to access your medical dashboard</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter_email">enter email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">enter password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="dont_have_account">Don\'t have an account? <font color="#FF0000">Create Now</font></string>
+    <string name="create_account">Create an Account</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account">Already have an account? <font color="#2196F3">Sign In</font></string>
+    <string name="forgot_password_title">Forgot Password?</string>
+    <string name="forgot_password_subtitle">Enter your registered email address to reset your password</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="continue_text">Continue</string>
+    <string name="back_to_login">← Back to Login</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="new_password">New Password</string>
+    <string name="enter_new_password">enter new password</string>
+    <string name="confirm">Confirm</string>
+</resources>

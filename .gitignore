@@ -1,0 +1,46 @@
+# Android Build
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android App Specific
+app/build/
+app/release/
+app/debug/
+*.apk
+*.aar
+
+# PHP / Backend
+backend/vendor/
+backend/composer.lock
+.htaccess
+error_log
+php_errors.log
+
+# Training / Datasets
+training/dataset/
+training/datasets/
+training/runs/
+training/training.log
+*.pt
+*.onnx
+!backend/models/*.tflite
+
+# Misc
+.kotlin/
+*.log
+*.npy
+.DS_Store
+Thumbs.db

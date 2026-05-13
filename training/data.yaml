@@ -1,0 +1,10 @@
+path: c:/Andriodstudios/URO/training/dataset
+train: images/train
+val: images/val
+nc: 5
+names:
+  0: Yeast
+  1: Triple Phosphate
+  2: Calcium Oxalate
+  3: Squamous Cells
+  4: Uric Acid

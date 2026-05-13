@@ -1,0 +1,54 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    
+    <!-- Left Ear Piece (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32.5,22.5c0,0 -12.5,0 -12.5,12.5c0,7.5 5,12.5 5,12.5"
+        android:strokeWidth="4"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"/>
+        
+    <!-- Right Ear Piece (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67.5,22.5c0,0 12.5,0 12.5,12.5c0,7.5 -5,12.5 -5,12.5"
+        android:strokeWidth="4"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"/>
+
+    <!-- Ear Tips (Dark Grey) -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M32.5,20a2.5,2.5 0,1 1,-5 0a2.5,2.5 0,1 1,5 0" />
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M67.5,20a2.5,2.5 0,1 1,-5 0a2.5,2.5 0,1 1,5 0" />
+
+    <!-- Main Tube (Dark Grey) -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M25,47.5c0,0 10,20 25,20s25,-20 25,-20"
+        android:strokeWidth="4"
+        android:strokeColor="#37474F"
+        android:strokeLineCap="round"
+        android:fillType="nonZero"/>
+        
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M50,67.5v10c0,10 15,15 25,10"
+        android:strokeWidth="4"
+        android:strokeColor="#37474F"
+        android:strokeLineCap="round"/>
+
+    <!-- Chest Piece (White/Grey) -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M80,77.5a10,10 0,1 1,-20 0a10,10 0,1 1,20 0" />
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M75,77.5a5,5 0,1 1,-10 0a5,5 0,1 1,10 0" />
+</vector>
